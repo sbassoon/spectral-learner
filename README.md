@@ -1,2 +1,2 @@
 # spectral-learner
-Analyzes a sounds spectra and learns to identify it.
+Analyzes a sounds spectrum and learns to identify it.
